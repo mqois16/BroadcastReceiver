@@ -74,7 +74,6 @@
         android:id="@+id/button_update"
         android:layout_centerHorizontal="true"
         android:layout_below="@+id/section_update"
-        android:paddingBottom="10dp"
         android:text="UPDATE NOW"/>
 
 
